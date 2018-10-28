@@ -16,7 +16,7 @@ namespace dangnhap
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frmdangnhap());
+            Application.Run(new frmadmin());
         }
     }
 }

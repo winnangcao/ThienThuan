@@ -1,6 +1,6 @@
 ﻿namespace dangnhap
 {
-    partial class frmdangnhap
+    partial class frmadmin
     {
         /// <summary>
         /// Required designer variable.
@@ -30,9 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "frmdangnhap";
+            this.Text = "Form1";
         }
 
         #endregion
     }
 }
+
